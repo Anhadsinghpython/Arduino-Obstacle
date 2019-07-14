@@ -29,7 +29,7 @@ Upload the code contained in this sketch on to your board
 ....
  Obstacle                 => Arduino sketch folder
   ├── Obstacle.ino        => Main Arduino Ino Sketch
-  ├── sketch.json         => 
+  ├── sketch.json         => Temp Arduino Json sketch.json File
   └── ReadMe.adoc         => Read Me file for intructions.
 ....
 
