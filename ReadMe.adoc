@@ -1,12 +1,12 @@
 :Author: Anhad
-:Email: {AuthorEmail}
+:Email: appdeveloperanhad@gmail.com
 :Date: 12/07/2019
-:Revision: version#
-:License: Public Domain
+:Revision: 1.5
+:License: MIT
 
-= Project: {Project}
+= Project: Arduino Obstacle
 
-Describe your project
+Arduino Obstacle Ovidance Robot By Anhad Singh Python
 
 == Step 1: Installation
 Please describe the steps to install this project.
