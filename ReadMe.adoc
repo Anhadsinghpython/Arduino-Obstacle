@@ -36,7 +36,7 @@ Upload the code contained in this sketch on to your board
 This project is released under a MIT License.
 
 === Contributing
-To contribute to this project please contact Anhad https://fireapps.github.io/apps
+To contribute to this project please contact Anhad https://fire-apps.github.io/apps
 
 === BOM
 Add the bill of the materials you need for this project.
@@ -50,4 +50,4 @@ Add the bill of the materials you need for this project.
 
 
 === Help
-Go to https://fireapps.github.io/apps for more info anf help.
+Go to https://fire-apps.github.io/apps for more info anf help.
