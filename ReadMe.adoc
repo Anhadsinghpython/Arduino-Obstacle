@@ -38,7 +38,7 @@ Upload the code contained in this sketch on to your board
 This project is released under a MIT License.
 
 === Contributing
-To contribute to this project please contact Anhad https://id.arduino.cc/Anhad
+To contribute to this project please contact Anhad https:fireapps.github.io/apps
 
 === BOM
 Add the bill of the materials you need for this project.
